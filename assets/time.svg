@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="342" viewBox="0 0 31 342">
+  <g id="Grupo_203" data-name="Grupo 203" transform="translate(-293 -9220)">
+    <ellipse id="Elipse_31" data-name="Elipse 31" cx="9.5" cy="9" rx="9.5" ry="9" transform="translate(299 9220)" fill="#198754"/>
+    <ellipse id="Elipse_35" data-name="Elipse 35" cx="9.5" cy="9" rx="9.5" ry="9" transform="translate(299 9332)" fill="#198754"/>
+    <path id="Trazado_19669" data-name="Trazado 19669" d="M0,0V111.5" transform="translate(308.5 9229)" fill="none" stroke="#198754" stroke-width="4"/>
+    <path id="Trazado_19670" data-name="Trazado 19670" d="M0,0V86.8" transform="translate(308.5 9341)" fill="none" stroke="#198754" stroke-width="4"/>
+    <ellipse id="Elipse_36" data-name="Elipse 36" cx="9.5" cy="9" rx="9.5" ry="9" transform="translate(299 9432)" fill="#198754"/>
+    <g id="Elipse_37" data-name="Elipse 37" transform="translate(293 9426)" fill="none" stroke="#198754" stroke-width="3">
+      <ellipse cx="15.5" cy="15" rx="15.5" ry="15" stroke="none"/>
+      <ellipse cx="15.5" cy="15" rx="14" ry="13.5" fill="none"/>
+    </g>
+    <path id="Trazado_19671" data-name="Trazado 19671" d="M0,0V98.563" transform="translate(308.5 9453.937)" fill="none" stroke="#606d67" stroke-width="2" style="mix-blend-mode: darken;isolation: isolate"/>
+    <g id="Elipse_38" data-name="Elipse 38" transform="translate(299 9544)" fill="#fff" stroke="#929292" stroke-width="2">
+      <ellipse cx="9.5" cy="9" rx="9.5" ry="9" stroke="none"/>
+      <ellipse cx="9.5" cy="9" rx="8.5" ry="8" fill="none"/>
+    </g>
+  </g>
+</svg>

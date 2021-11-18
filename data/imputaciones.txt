@@ -1,0 +1,64 @@
+
+"AVANTEL, S.A. >	Soporte EBS	3160002	>	Soporte	28/10/2021 00:00"	"OTRS: 2021061010105077 Comprobacion prerequisitos parche Ejecucion de script de seleccion"
+
+"TERMINAL DE CONTENEDORES DE BUENAVENTURA, S.A. >	Soporte Oracle EBS	>	Administración DBA"	25/10/2021 03:00	"Consulta historial de ejecuciones para el LOGIN_ID = 27889043 Se rescatan los request_id ejecutados por el usuario -->> JIRA: 10580"
+
+Comprobación de programación del JOB “XXMX_UPDATE_WC_CLIENT_JB” El Job no esta programado a pesar de que se realizo la instalación como indica el manual -->> JIRA: 6649
+
+HAVAS MEDIA GROUP SPAIN S.A.U.	Soporte Havas Media	3440052		Soporte DBA	25/10/2021 00:00	4	No	Consulta historial de ejecuciones para el LOGIN_ID = 27889043 Se rescatan los request_id ejecutados por el usuario -->> JIRA: 10580 Comprobación de programación del JOB “XXMX_UPDATE_WC_CLIENT_JB”
+El Job no esta programado a pesar de que se realizo la instalación como indica el manual
+-->> JIRA: 6649
+
+HAVAS MEDIA GROUP SPAIN S.A.U.	Soporte Havas Media	3440052		Soporte DBA	26/10/2021 00:00	4	No	Consulta historial de ejecuciones para el LOGIN_ID = 27889043 Se rescatan los request_id ejecutados por el usuario -->> JIRA: 10580 Comprobación de programación del JOB “XXMX_UPDATE_WC_CLIENT_JB”
+El Job no esta programado a pesar de que se realizo la instalación como indica el manual -->> JIRA: 6649
+
+TERMINAL DE CONTENEDORES DE BUENAVENTURA, S.A.	Soporte Oracle EBS	4980001		Administración DBA	26/10/2021 00:00	3	No	error por falta de memoria en el servidor de base de datos ORA-01034: ORACLE not available ORA-27101: shared memory realm does not exist
+
+COOPERATIVA MULTIACTIVA DE DETALLISTAS DE SANTA FE DE BOGOTA D.C., LTDA.	Administración Oracle EBS	2010000		Administracion EBS	27/10/2021 00:00	2	No	Problema al iniciar el servicio para móviles por telnet.
+
+Se ha solucionado, el servicio esta arrancado, el puerto para ingresar es el 30008, lo he probado desde mi equipo de forma local.
+-->> OTRS: 201912021075729
+
+TERMINAL DE CONTENEDORES DE BUENAVENTURA, S.A.	Soporte Oracle EBS	4980001		Administración DBA	27/10/2021 00:00	1.5	No	Revision de paquetes por instalar en servidor
+
+COOPERATIVA MULTIACTIVA DE DETALLISTAS DE SANTA FE DE BOGOTA D.C., LTDA.	Administración Oracle EBS	2010000		Administracion EBS	28/10/2021 00:00	2	No	comprobacion backups Base de datos
+Se revisan prerequisitos y se instala en realiza en dev
+-->> OTRS: 202004201084248
+
+GRUPO ARIN INNOVATION	Formación	9000040008		Formación Administración eBS	28/10/2021 00:00	2	No	Acompañamiento a Julian para creacion de alertas en Havas
+
+HAVAS MEDIA GROUP SPAIN S.A.U.	Soporte Havas Media	3440052		Soporte DBA	28/10/2021 00:00	2	No	JIRA: 14769
+Instalación desarrollo ESKER Instalacion SOA For REST
+Notificacion y planeacion de ciclo de parcheo adop
+
+AVANTEL, S.A.	Soporte EBS	3160002		Soporte	29/10/2021 00:00	2.5	No	OTRS: 202005051085311
+
+HAVAS MEDIA GROUP SPAIN S.A.U.	Soporte Havas Media	3440052		Soporte DBA	29/10/2021 00:00	4	No	JIRARevisión del objeto
+
+MINER_SOBREPRIMAS_INGES@MX_OF_MMS
+Una vista de MMS tiene una referencia invalida en la asignacion del dueño, se consulta con Baudelia de Mexico sobre el cambio
+-->> JIRA:  10868
+
+Verificación del acceso por ftp al host ftpmex.havasmedia.com con usuario cash en el nuevo entorno de pruebas para la migración de base de datos.
+EBSPRE 10.108.244.46
+JIRA:
+
+AVANTEL, S.A.	Soporte EBS	3160002		Soporte	26/10/2021 00:00	2	No	.2021053110104422 — [AVANTEL] - Novedad WebAdi
+
+Se aplican los siguientes parches
+22284589 R12.FWK.B.delta.5 => 1931412.1
+26115786
+31090134
+
+HAVAS MEDIA GROUP SPAIN S.A.U.	Soporte Havas Media	3440052		Soporte DBA	27/10/2021 00:00	3.5	No	Se aplico el parche 30849087 en la instancia TEST según el último plan de acción en el SR 3-22704291271, un análisis del impacto del parche sobre EBS indica que modifica diversas pantallas y otros objetos de AP, por favor hacer pruebas del funcionamiento a este modulo en TEST para descartar que no aplicara cambios indeseables.
+JIRA: 10470
+
+En este momento no hay bloqueos de objetos MMS, sin embargo puede que el bloqueo este en algún otro objeto de un modulo en particular, por favor indicarme que módulos están relacionados a esa pantalla para validar.
+JIRA: 10917
+TERMINAL DE CONTENEDORES DE BUENAVENTURA, S.A.	Soporte Oracle EBS	4980001		Administración DBA	29/10/2021 00:00	2.5	No	Transpaso backup EBS, recuperacion de archivos de configuracion CONTEXT_FILE y TNS_NAMES
+AVANTEL, S.A.	Soporte EBS	3160002		Soporte	25/10/2021 00:00	2	No	.OTRS: 202005261086608
+AVANTEL, S.A.	Soporte EBS	3160002		Soporte	27/10/2021 00:00	2	No	.2021053110104422 — [AVANTEL] - Novedad WebAdi
+Se aplican los siguientes parches
+22284589 R12.FWK.B.delta.5 => 1931412.1
+26115786
+31090134
